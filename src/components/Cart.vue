@@ -15,7 +15,7 @@
             img-alt="Image"
             img-top
             tag="article"
-            style="max-width: 20rem"
+            style="width: 20rem"
             class="mb-2"
           >
             <b-card-text> Price: {{ product.price }} </b-card-text>
